@@ -1,0 +1,9 @@
+{
+  "WAITING_FOR_DATA": "Odotetaan dataa sensorilta",
+  "NO_CONNECTION": "Ei yhteyttä sensoriin",
+  "IR_AMBIENT_TEMPERATURE": "IR taustalämpötila",
+  "IR_OBJECT_TEMPERATURE": "IR kohdelämpötila",
+  "HUMIDITY": "Ilmankosteus",
+  "BAROMETRIC_PRESSURE": "Ilmanpaine",
+  "LUXOMETER": "Valaistus"
+}
